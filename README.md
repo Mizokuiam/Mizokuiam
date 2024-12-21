@@ -11,9 +11,12 @@ AI Innovation: Developing three groundbreaking AI projects to simplify and enhan
 SaaS Excellence: Expanding my portfolio of scalable SaaS web apps tailored to meet modern needs.
 💻 Skills & Tools
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> </p>
-🎯 What I Bring to the Table
+🎯 What I Bring to the Table:
+
 ✅ Proven expertise in building SaaS web apps and scalable platforms.
+
 ✅ Deep experience with cloud infrastructure and modern dev tools.
+
 ✅ A passion for automation and making life simpler, one project at a time.
 
 🌐 Let’s Connect!
