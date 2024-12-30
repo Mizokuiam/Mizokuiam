@@ -10,6 +10,13 @@
   </a>
 </div>
 
+<!-- Portfolio Link -->
+<div align="center">
+  <a href="https://mizokuiam.github.io/stackhugs/">
+    <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
+
 <!-- Elegant Tech Stack -->
 <div align="center">
   <h2>⚡ Tech Stack</h2>
