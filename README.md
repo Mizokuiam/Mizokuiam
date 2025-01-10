@@ -10,43 +10,42 @@
   </a>
 </div>
 
-<!-- GitHub Analytics Badges -->
+<!-- GitHub Analytics -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
   <!-- Contribution Stats Row -->
-  <img src="https://img.shields.io/github/commit-activity/y/Mizokuiam/Mizokuiam?style=flat&label=Annual%20Commits&color=0284C7" alt="Annual Commits"/>
-  <img src="https://img.shields.io/github/last-commit/Mizokuiam/Mizokuiam?style=flat&label=Last%20Commit&color=0284C7" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/contributors/Mizokuiam/Mizokuiam?style=flat&color=0284C7" alt="Contributors"/>
+  ![Annual Commits](https://img.shields.io/github/commit-activity/y/Mizokuiam/Mizokuiam?style=for-the-badge&label=Annual%20Commits&labelColor=4F4F4F&color=2EA043)
+  ![Last Commit](https://img.shields.io/github/last-commit/Mizokuiam/Mizokuiam?style=for-the-badge&label=Last%20Commit&labelColor=4F4F4F&color=0284C7)
+  ![Contributors](https://img.shields.io/github/contributors/Mizokuiam/Mizokuiam?style=for-the-badge&labelColor=4F4F4F&color=0284C7)
   
   <!-- Repository Stats Row -->
-  <br><br>
-  <img src="https://img.shields.io/github/stars/Mizokuiam/Mizokuiam?style=flat&label=Total%20Stars&color=0284C7" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/Mizokuiam/Mizokuiam?style=flat&label=Total%20Forks&color=0284C7" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/Mizokuiam/Mizokuiam?style=flat&color=0284C7" alt="Issues"/>
+  ![Total Stars](https://img.shields.io/github/stars/Mizokuiam/Mizokuiam?style=for-the-badge&label=Total%20Stars&labelColor=4F4F4F&color=DDB100)
+  ![Total Forks](https://img.shields.io/github/forks/Mizokuiam/Mizokuiam?style=for-the-badge&label=Total%20Forks&labelColor=4F4F4F&color=0284C7)
+  ![Issues](https://img.shields.io/github/issues/Mizokuiam/Mizokuiam?style=for-the-badge&label=Issues&labelColor=4F4F4F&color=0284C7)
   
   <!-- Language Stats Row -->
-  <br><br>
-  <img src="https://img.shields.io/github/languages/count/Mizokuiam/Mizokuiam?style=flat&label=Languages&color=0284C7" alt="Languages"/>
-  <img src="https://img.shields.io/github/languages/top/Mizokuiam/Mizokuiam?style=flat&color=0284C7" alt="Top Language"/>
-  <img src="https://img.shields.io/github/repo-size/Mizokuiam/Mizokuiam?style=flat&label=Repo%20Size&color=0284C7" alt="Repo Size"/>
+  ![Languages](https://img.shields.io/github/languages/count/Mizokuiam/Mizokuiam?style=for-the-badge&label=Languages&labelColor=4F4F4F&color=0284C7)
+  ![Top Language](https://img.shields.io/github/languages/top/Mizokuiam/Mizokuiam?style=for-the-badge&labelColor=4F4F4F&color=0284C7)
+  ![Repo Size](https://img.shields.io/github/repo-size/Mizokuiam/Mizokuiam?style=for-the-badge&label=Repo%20Size&labelColor=4F4F4F&color=0284C7)
 </div>
 
-<!-- Achievement Badges -->
+<!-- Achievements -->
 <div align="center">
   <h2>🏆 Achievements</h2>
   
-  <img src="https://img.shields.io/github/followers/Mizokuiam?style=flat&label=GitHub%20Followers&color=0284C7" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-0284C7" alt="Arctic Code Vault"/>
-  <img src="https://img.shields.io/badge/PRs-Welcome-0284C7" alt="PRs Welcome"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-0284C7" alt="Hacktoberfest"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0284C7" alt="Open Source"/>
-  <img src="https://img.shields.io/github/discussions/Mizokuiam/Mizokuiam?style=flat&color=0284C7" alt="Discussions"/>
+  ![GitHub Followers](https://img.shields.io/github/followers/Mizokuiam?style=for-the-badge&label=GitHub%20Followers&labelColor=4F4F4F&color=0284C7)
+  ![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-0284C7?style=for-the-badge&labelColor=4F4F4F)
+  ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2EA043?style=for-the-badge&labelColor=4F4F4F)
+  
+  ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-A51C30?style=for-the-badge&labelColor=4F4F4F)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-3DA639?style=for-the-badge&labelColor=4F4F4F)
+  ![Discussions](https://img.shields.io/github/discussions/Mizokuiam/Mizokuiam?style=for-the-badge&labelColor=4F4F4F&color=0284C7)
 </div>
 
 <!-- Portfolio Link -->
 <div align="center">
+  <br>
   <a href="https://mizokuiam.github.io/stackhugs/">
     <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
   </a>
