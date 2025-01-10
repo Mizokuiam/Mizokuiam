@@ -10,44 +10,51 @@
   </a>
 </div>
 
-<!-- GitHub Analytics -->
+<!-- GitHub Analytics and Achievements - Side by Side -->
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <!-- Contribution Stats Row -->
-  ![Annual Commits](https://img.shields.io/github/commit-activity/y/Mizokuiam/Mizokuiam?style=for-the-badge&label=Annual%20Commits&labelColor=4F4F4F&color=2EA043)
-  ![Last Commit](https://img.shields.io/github/last-commit/Mizokuiam/Mizokuiam?style=for-the-badge&label=Last%20Commit&labelColor=4F4F4F&color=0284C7)
-  ![Contributors](https://img.shields.io/github/contributors/Mizokuiam/Mizokuiam?style=for-the-badge&labelColor=4F4F4F&color=0284C7)
-  
-  <!-- Repository Stats Row -->
-  ![Total Stars](https://img.shields.io/github/stars/Mizokuiam/Mizokuiam?style=for-the-badge&label=Total%20Stars&labelColor=4F4F4F&color=DDB100)
-  ![Total Forks](https://img.shields.io/github/forks/Mizokuiam/Mizokuiam?style=for-the-badge&label=Total%20Forks&labelColor=4F4F4F&color=0284C7)
-  ![Issues](https://img.shields.io/github/issues/Mizokuiam/Mizokuiam?style=for-the-badge&label=Issues&labelColor=4F4F4F&color=0284C7)
-  
-  <!-- Language Stats Row -->
-  ![Languages](https://img.shields.io/github/languages/count/Mizokuiam/Mizokuiam?style=for-the-badge&label=Languages&labelColor=4F4F4F&color=0284C7)
-  ![Top Language](https://img.shields.io/github/languages/top/Mizokuiam/Mizokuiam?style=for-the-badge&labelColor=4F4F4F&color=0284C7)
-  ![Repo Size](https://img.shields.io/github/repo-size/Mizokuiam/Mizokuiam?style=for-the-badge&label=Repo%20Size&labelColor=4F4F4F&color=0284C7)
-</div>
-
-<!-- Achievements -->
-<div align="center">
-  <h2>🏆 Achievements</h2>
-  
-  ![GitHub Followers](https://img.shields.io/github/followers/Mizokuiam?style=for-the-badge&label=GitHub%20Followers&labelColor=4F4F4F&color=0284C7)
-  ![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-0284C7?style=for-the-badge&labelColor=4F4F4F)
-  ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2EA043?style=for-the-badge&labelColor=4F4F4F)
-  
-  ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-A51C30?style=for-the-badge&labelColor=4F4F4F)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-3DA639?style=for-the-badge&labelColor=4F4F4F)
-  ![Discussions](https://img.shields.io/github/discussions/Mizokuiam/Mizokuiam?style=for-the-badge&labelColor=4F4F4F&color=0284C7)
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>📊 GitHub Analytics</h3>
+        <img src="https://img.shields.io/badge/Annual%20Commits-9%2Fyear-gray?style=flat" alt="Annual Commits"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Last%20Commit-today-blue?style=flat" alt="Last Commit"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Contributors-1-blue?style=flat" alt="Contributors"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Total%20Stars-0-yellow?style=flat" alt="Total Stars"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Total%20Forks-0-blue?style=flat" alt="Total Forks"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Issues-0%20open-blue?style=flat" alt="Issues"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Languages-0-blue?style=flat" alt="Languages"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Repo%20Size-10%20KiB-blue?style=flat" alt="Repo Size"/>
+      </td>
+      <td align="center" width="50%">
+        <h3>🏆 Achievements</h3>
+        <img src="https://img.shields.io/badge/GitHub%20Followers-0-gray?style=flat" alt="GitHub Followers"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?style=flat" alt="Arctic Code Vault"/>
+        <br/>
+        <img src="https://img.shields.io/badge/PRs-Welcome-green?style=flat" alt="PRs Welcome"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=flat" alt="Hacktoberfest"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat" alt="Open Source"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Discussions-0%20total-blue?style=flat" alt="Discussions"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Portfolio Link -->
 <div align="center">
   <br>
   <a href="https://mizokuiam.github.io/stackhugs/">
-    <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-0284C7?style=flat&logo=firefox&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
 
@@ -64,18 +71,18 @@
   <br>
 
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mrmizoku@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Mizokuiam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Mizokuiam&style=for-the-badge&color=0284C7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mizokuiam&style=flat&color=0284C7" alt="Profile Views" />
 </div>
 
 <!-- Clean Footer -->
