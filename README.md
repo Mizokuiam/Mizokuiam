@@ -10,21 +10,39 @@
   </a>
 </div>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Analytics Badges -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizokuiam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <!-- Contribution Stats Row -->
+  <img src="https://img.shields.io/github/commit-activity/y/Mizokuiam/Mizokuiam?style=flat&label=Annual%20Commits&color=0284C7" alt="Annual Commits"/>
+  <img src="https://img.shields.io/github/last-commit/Mizokuiam/Mizokuiam?style=flat&label=Last%20Commit&color=0284C7" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/contributors/Mizokuiam/Mizokuiam?style=flat&color=0284C7" alt="Contributors"/>
   
-  <!-- Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizokuiam&layout=compact&theme=tokyonight&hide_border=true"/>
+  <!-- Repository Stats Row -->
+  <br><br>
+  <img src="https://img.shields.io/github/stars/Mizokuiam/Mizokuiam?style=flat&label=Total%20Stars&color=0284C7" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Mizokuiam/Mizokuiam?style=flat&label=Total%20Forks&color=0284C7" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/Mizokuiam/Mizokuiam?style=flat&color=0284C7" alt="Issues"/>
   
-  <!-- Contribution Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mizokuiam&theme=react-dark&hide_border=true"/>
+  <!-- Language Stats Row -->
+  <br><br>
+  <img src="https://img.shields.io/github/languages/count/Mizokuiam/Mizokuiam?style=flat&label=Languages&color=0284C7" alt="Languages"/>
+  <img src="https://img.shields.io/github/languages/top/Mizokuiam/Mizokuiam?style=flat&color=0284C7" alt="Top Language"/>
+  <img src="https://img.shields.io/github/repo-size/Mizokuiam/Mizokuiam?style=flat&label=Repo%20Size&color=0284C7" alt="Repo Size"/>
+</div>
+
+<!-- Achievement Badges -->
+<div align="center">
+  <h2>🏆 Achievements</h2>
   
-  <!-- Streak Stats -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mizokuiam&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/github/followers/Mizokuiam?style=flat&label=GitHub%20Followers&color=0284C7" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-0284C7" alt="Arctic Code Vault"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-0284C7" alt="PRs Welcome"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-0284C7" alt="Hacktoberfest"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-0284C7" alt="Open Source"/>
+  <img src="https://img.shields.io/github/discussions/Mizokuiam/Mizokuiam?style=flat&color=0284C7" alt="Discussions"/>
 </div>
 
 <!-- Portfolio Link -->
@@ -39,12 +57,6 @@
   <h2>⚡ Tech Stack</h2>
 
   <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,react,nestjs,nodejs,express,aws,azure,docker,kubernetes,postgres,mongodb,redis,graphql,wordpress" />
-</div>
-
-<!-- Activity Metrics -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Mizokuiam&theme=nord&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
 <!-- Modern Contact Section -->
