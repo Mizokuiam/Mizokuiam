@@ -8,46 +8,41 @@
   <h3>Building Scalable Solutions</h3>
 </div>
 
-<!-- Analytics and Achievements Side by Side -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div align="left" style="flex: 1; max-width: 400px;">
-    <h3>
-      <img src="https://raw.githubusercontent.com/Mizokuiam/Mizokuiam/main/assets/analytics.svg" width="20" height="20" />
-      GitHub Analytics
-    </h3>
-    <img src="https://img.shields.io/badge/Annual%20Commits-9%2Fyear-gray" />
-    <img src="https://img.shields.io/badge/Last%20Commit-today-blue" />
-    <img src="https://img.shields.io/badge/Contributors-1-blue" />
-    <br/>
-    <img src="https://img.shields.io/badge/Total%20Stars-0-yellow" />
-    <img src="https://img.shields.io/badge/Total%20Forks-0-blue" />
-    <img src="https://img.shields.io/badge/Issues-0%20open-blue" />
-    <br/>
-    <img src="https://img.shields.io/badge/Languages-0-blue" />
-    <img src="https://img.shields.io/badge/language-none-blue" />
-    <img src="https://img.shields.io/badge/Repo%20Size-10%20KiB-blue" />
-  </div>
+<!-- GitHub Analytics -->
+<div>
+  <h3>📊 GitHub Analytics</h3>
+  
+  ![Annual Commits](https://img.shields.io/badge/Annual%20Commits-9%2Fyear-grey?style=flat)
+  ![Last Commit](https://img.shields.io/badge/Last%20Commit-today-blue?style=flat)
+  ![Contributors](https://img.shields.io/badge/Contributors-1-blue?style=flat)
+  
+  ![Total Stars](https://img.shields.io/badge/Total%20Stars-0-yellow?style=flat)
+  ![Total Forks](https://img.shields.io/badge/Total%20Forks-0-blue?style=flat)
+  ![Issues](https://img.shields.io/badge/Issues-0%20open-blue?style=flat)
+  
+  ![Languages](https://img.shields.io/badge/Languages-0-blue?style=flat)
+  ![language](https://img.shields.io/badge/language-none-blue?style=flat)
+  ![Repo Size](https://img.shields.io/badge/Repo%20Size-10%20KiB-blue?style=flat)
+</div>
 
-  <div align="right" style="flex: 1; max-width: 400px;">
-    <h3>
-      <img src="https://raw.githubusercontent.com/Mizokuiam/Mizokuiam/main/assets/trophy.svg" width="20" height="20" />
-      Achievements
-    </h3>
-    <img src="https://img.shields.io/badge/GitHub%20Followers-0-gray" />
-    <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue" />
-    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" />
-    <br/>
-    <img src="https://img.shields.io/badge/Hacktoberfest-Participant-orange" />
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" />
-    <img src="https://img.shields.io/badge/Discussions-0%20total-blue" />
-  </div>
+<!-- Achievements -->
+<div align="right">
+  <h3>🏆 Achievements</h3>
+  
+  ![GitHub Followers](https://img.shields.io/badge/GitHub%20Followers-0-grey?style=flat)
+  ![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue?style=flat)
+  ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat)
+  
+  ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=flat)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat)
+  ![Discussions](https://img.shields.io/badge/Discussions-0%20total-blue?style=flat)
 </div>
 
 <!-- Portfolio Button -->
 <div align="center">
   <br/>
   <a href="https://mizokuiam.github.io/stackhugs/">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0284C7" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0284C7?style=flat" alt="Portfolio Website" />
   </a>
 </div>
 
@@ -61,18 +56,18 @@
 <div align="center">
   <h2>🤝 Connect With Me</h2>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:mrmizoku@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/Mizokuiam">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Mizokuiam&color=0284C7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mizokuiam&style=flat&color=0284C7" alt="Profile Views" />
 </div>
 
 <!-- Footer -->
