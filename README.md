@@ -1,39 +1,58 @@
-# Mizokuiam
+# Hi there, I'm Mizokuiam 👋
 
-mygh_profile
+## Tech Enthusiast | Full Stack Developer | AI & Cloud Specialist
 
-![GitHub stars](https://img.shields.io/github/stars/Mizokuiam/Mizokuiam)
-![GitHub forks](https://img.shields.io/github/forks/Mizokuiam/Mizokuiam)
-![GitHub issues](https://img.shields.io/github/issues/Mizokuiam/Mizokuiam)
+![Profile Views](https://komarev.com/ghpvc/?username=Mizokuiam&color=brightgreen)
+[![Twitter: MrMizoku](https://img.shields.io/twitter/follow/MrMizoku?style=social)](https://twitter.com/MrMizoku)
+[![GitHub followers](https://img.shields.io/github/followers/Mizokuiam?label=Follow&style=social)](https://github.com/Mizokuiam)
 
-## 📋 Description
+### 🚀 About Me
 
-mygh_profile
+- 🔭 Tech Enthusiast with focus on Python, Java, and Cloud technologies
+- 🌱 Building innovative solutions and exploring new technologies
+- 💡 Passionate about AI, Automation, and Cloud Architecture
+- 🌍 Based in Boston, MA
+- 👨‍💻 Check out my projects at [mizokuiam.github.io/stackhug/](https://mizokuiam.github.io/stackhug/)
 
-## 🚀 Features
+### 🛠️ Tech Stack
 
-Add features of your project here.
-
-## 📦 Installation
-
-```bash
-# Add installation instructions here
+```python
+tech_stack = {
+    'Languages': ['Python', 'Java', 'JavaScript'],
+    'Cloud & DevOps': ['AWS', 'Docker', 'Kubernetes'],
+    'AI & ML': ['TensorFlow', 'PyTorch', 'LangChain'],
+    'Web Development': ['React', 'Node.js', 'FastAPI'],
+    'Databases': ['PostgreSQL', 'MongoDB', 'Redis'],
+    'Tools': ['Git', 'Docker', 'VS Code']
+}
 ```
 
-## 💡 Usage
+### 📊 GitHub Stats
 
-Add usage examples here.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mizokuiam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizokuiam&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-## 🤝 Contributing
+### 🌟 Featured Projects
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+- [ItGuess](https://github.com/Mizokuiam/ItGuess): Perfect for financial analysts, traders, and anyone interested in stock market forecasting
+- [aurora-theme](https://github.com/Mizokuiam/aurora-theme): No description
+- [Automacien](https://github.com/Mizokuiam/Automacien): Blogging site
 
-## 📄 License
 
-This project is licensed under the terms of the license found in the LICENSE file.
+### 📫 Connect with Me
 
-## 🙏 Acknowledgments
+- 🐦 Twitter: [@MrMizoku](https://twitter.com/MrMizoku)
+- 🌐 Website: [mizokuiam.github.io/stackhug/](https://mizokuiam.github.io/stackhug/)
+- 💼 LinkedIn: [Add your LinkedIn]
 
-- List any contributors
-- Inspiration sources
-- etc.
+### 🤝 Contributing
+
+Interested in collaborating? Check out my repositories and feel free to contribute! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for submitting pull requests.
+
+---
+
+<div align="center">
+  <i>⭐️ From [Mizokuiam](https://github.com/Mizokuiam)</i>
+</div>
