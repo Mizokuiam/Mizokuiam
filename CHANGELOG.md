@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-01-15
+
+- Create CHANGELOG.md (52a2ba2 by Mizokuiam)
+
 ## 2025-01-14
 
 - Update profile README (3b0aeec by Mizokuiam)
