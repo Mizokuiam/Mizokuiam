@@ -34,12 +34,6 @@ tech_stack = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizokuiam&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### 🌟 Featured Projects
-
-- [ItGuess](https://github.com/Mizokuiam/ItGuess): Perfect for financial analysts, traders, and anyone interested in stock market forecasting
-- [aurora-theme](https://github.com/Mizokuiam/aurora-theme): No description
-- [Automacien](https://github.com/Mizokuiam/Automacien): Blogging site
-
 
 ### 📫 Connect with Me
 
