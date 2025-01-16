@@ -39,7 +39,7 @@ tech_stack = {
 
 - 🐦 Twitter: [@MrMizoku](https://twitter.com/MrMizoku)
 - 🌐 Website: [mizokuiam.github.io/stackhug/](https://mizokuiam.github.io/stackhug/)
-- 💼 LinkedIn: [Add your LinkedIn]
+- 💼 LinkedIn: [www.linkedin.com/in/moazmizoku]
 
 ### 🤝 Contributing
 
