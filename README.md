@@ -31,6 +31,9 @@ const mizokuiam = {
 ---
 
 <div align="center">
+  <!-- Linux Tux logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  
   <!-- Simple pixel art footer that should render correctly -->
   <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Separator" />
   
