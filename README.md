@@ -28,20 +28,6 @@ const mizokuiam = {
   <img src="https://skillicons.dev/icons?i=py,java,js,aws,docker,kubernetes,tensorflow,pytorch,react,nodejs,fastapi,postgres,mongodb,redis,git,vscode" />
 </div>
 
-## 📊 Weekly Dev Metrics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mizokuiam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🔗 Connect
-
-<div align="center">
-  <a href="https://twitter.com/MrMizoku">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
 ---
 
 <div align="center">
