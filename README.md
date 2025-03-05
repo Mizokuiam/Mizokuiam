@@ -31,5 +31,12 @@ const mizokuiam = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/footer.svg" width="100%">
+  <!-- Custom pixel art footer -->
+  <img src="https://i.imgur.com/waxVImv.png" alt="Pixel Separator" style="width: 100%;" />
+  
+  ```
+  ┌─┐┌─┐┌┬┐┌─┐  ┌─┐┌─┐┌┬┐┌─┐  ┌─┐┌─┐┌┬┐┌─┐  ┌─┐┬  ┌─┐┬ ┬
+  │  │ │ ││├┤   │  │ │ ││├┤   │  │ │ ││├┤   ├─┘│  ├─┤└┬┘
+  └─┘└─┘─┴┘└─┘  └─┘└─┘─┴┘└─┘  └─┘└─┘─┴┘└─┘  ┴  ┴─┘┴ ┴ ┴ 
+  ```
 </div>
