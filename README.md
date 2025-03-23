@@ -11,7 +11,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/Mizokuiam?logo=github&style=flat-square&color=0891b2&labelColor=000000)](https://github.com/Mizokuiam)
   
 </div>
-![Profile Views](https://kzmlpcjivt41zw07h9i0.lite.vusercontent.net/api/badge/Mizokuiam?style=flat&color=blue)
+
 ## 🧠 About Me
 
 ```javascript
