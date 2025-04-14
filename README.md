@@ -14,57 +14,33 @@
 
 ## 🧠 About Me
 
-I'm a self-taught tech enthusiast with a passion for breaking down complex systems to understand how they work. My journey began in high school, where I taught myself technology by dismantling computer components, reverse engineering software, and troubleshooting electrical systems at home—from TVs to satellite equipment.
-
-Today, I'm working at an aerospace company where I focus on cloud engineering and software development. My hands-on approach to learning has fueled projects across web development, desktop applications, and AI-powered solutions.
+Self-taught tech enthusiast working in aerospace with a focus on cloud engineering and software development. Started by dismantling computers and reverse engineering software in high school, now building cloud infrastructure and AI solutions professionally.
 
 ## 🛠️ Tech Stack
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### AI & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & Others
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+## 💻 Current Focus
 
-## 💻 Projects & Experience
-
-- **Cloud Infrastructure**: Designing and implementing scalable cloud solutions for aerospace applications
-- **AI Solutions**: Building machine learning models for data analysis and prediction
-- **Web Development**: Creating responsive web applications with modern frameworks
-- **Desktop Applications**: Developing cross-platform software solutions for specialized use cases
-- **Reverse Engineering**: Analyzing and understanding complex systems and software
-
-## 🚀 What Drives Me
-
-I believe in the power of technology to solve complex problems. My approach combines practical hands-on experience with theoretical knowledge, allowing me to build systems that are both innovative and reliable. Whether it's optimizing cloud infrastructure or developing new software solutions, I'm always looking for ways to push the boundaries of what's possible.
+- Cloud infrastructure for aerospace applications
+- AI/ML solutions for data analysis
+- Web & desktop application development
+- Systems reverse engineering
 
 ---
 
