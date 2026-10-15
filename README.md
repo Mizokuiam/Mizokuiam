@@ -1,1 +1,1 @@
-<img src="./neofetch.svg" alt="mizoku@boston — neofetch" width="100%"/>
+<img src="./card.svg" alt="mizoku@boston — neofetch" width="100%"/>
